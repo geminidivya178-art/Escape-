@@ -1,0 +1,6 @@
+{
+  "name": "Escape Itinerary Generator",
+  "description": "An interactive travel guide that suggests surprise destinations and generates complete daily itineraries based on budget, duration, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
